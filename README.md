@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @zanesquintana
-- 👀 I’m interested in ...movies, books, manga, anime, food
-- 🌱 I’m currently learning ...sql
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Zane's Example SQL Portfolio
 
-<!---
-zanesquintana/zanesquintana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Welcome to my SQL Portfolio! This repository contains sample of SQL I've written. In time I will be adding more SQL codes here as I try to break into Tech.
+
+*I'm hoping to be a Data analyst after I finish my certificate and find a job soon ;)*
+***Wish me LUCK!***
+
+
